@@ -4,7 +4,7 @@ Student-led automotive engineering work by **Wajhudeen A**, Automobile Engineeri
 
 We organize the work around one question: **what can the available evidence actually support?**
 
-Start with the [engineering portfolio](https://github.com/asphaltsovereign/automotive-engineering-portfolio) for technical case studies, a public CV and the evidence standard.
+Start with the [engineering portfolio](https://github.com/asphaltsovereign/automotive-engineering-portfolio) for technical case studies and the evidence standard.
 
 | Project | Engineering focus | Current stage |
 |---|---|---|
@@ -16,8 +16,12 @@ Each repository records the problem, requirements, architecture, component choic
 
 **Current engineering priority:** reconcile the SAN output with the OctaneOS import contract, then reproduce a genuine calibrated bench-data handoff. The two systems are not yet represented as an integrated, vehicle-validated product.
 
-Website: [asphaltsovereign.com](https://asphaltsovereign.com) · [Public engineering CV](https://github.com/asphaltsovereign/automotive-engineering-portfolio/blob/main/cv/Wajhudeen_A_Engineering_CV.md)
+Website: [asphaltsovereign.com](https://asphaltsovereign.com)
 
 ## Source recovery archives
 
 The profile repository also retains the earlier Git bundles and their checksum manifests. These are dated source-recovery snapshots; the project links above lead to the published working trees. The snapshots preserve the original commits without manufacturing contribution activity.
+
+## Source recovery archives
+
+The profile repository retains [Git source-recovery bundles and checksum manifests](SOURCE_ARCHIVES.md). These are dated source-recovery snapshots; the project links above lead to the published working trees. The snapshots preserve the original commits without manufacturing contribution activity.
