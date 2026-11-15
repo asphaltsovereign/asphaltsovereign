@@ -20,8 +20,4 @@ Website: [asphaltsovereign.com](https://asphaltsovereign.com)
 
 ## Source recovery archives
 
-The profile repository also retains the earlier Git bundles and their checksum manifests. These are dated source-recovery snapshots; the project links above lead to the published working trees. The snapshots preserve the original commits without manufacturing contribution activity.
-
-## Source recovery archives
-
 The profile repository retains [Git source-recovery bundles and checksum manifests](SOURCE_ARCHIVES.md). These are dated source-recovery snapshots; the project links above lead to the published working trees. The snapshots preserve the original commits without manufacturing contribution activity.
